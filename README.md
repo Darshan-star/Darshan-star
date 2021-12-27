@@ -1,5 +1,5 @@
 [![image](https://github.com/Darshan-star/Darshan-star/blob/main/111111111.png?raw=true)](https://darshan-star.github.io/portfolio/)
-# Hey there! 👋🏻 I am Darshan! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
+# Hey there! 👋🏻<img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"> I am Darshan! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
 I am Darshan 🙋🏻‍♂️, a Nature Lover, Cat Lover, Front End Larner, Web Developer Evangelist & Game Designer.
 
@@ -16,5 +16,18 @@ I am Darshan 🙋🏻‍♂️, a Nature Lover, Cat Lover, Front End Larner, Web
 [![Instagram](https://github.com/Darshan-star/Darshan-star/blob/main/in.png?raw=true)](https://www.instagram.com/darshanrao526/)
 [![WhatsApp](https://github.com/Darshan-star/Darshan-star/blob/main/wh.png?raw=true)](https://wa.me/) 
 
-![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
+<p align="center">
+    ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
+</p>
+
+## 📈 Stats
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Darshan-star&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Darshan-star&theme=tokyonight" />
+</p>
+
+Watch my contribution graph being eaten by a Snake! 🐍
+
+![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg)
 
