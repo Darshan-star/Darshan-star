@@ -3,6 +3,9 @@
 
 I am Darshan 🙋🏻‍♂️, a Nature Lover, Cat Lover, Front End Larner, Web Developer Evangelist & Game Designer.
 
+## Mostly work with⚒️
+[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)  [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#) [![PHP Badge](https://img.shields.io/badge/PHP-6d4dff?style=for-the-badge&logo=php&logoColor=white)](#)  [![Javascript Badge](https://img.shields.io/badge/Javascript-facf43?style=for-the-badge&logo=javascript&logoColor=white)](#) [![Python Badge](https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&logoColor=white")](#) [![MySQL Badge](https://img.shields.io/badge/MySQL-ff7926?style=for-the-badge&logo=mysql&logoColor=white)](#) [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)  [![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](#)  
+
 ## Connect with Me 🤝🏻
 [![Website](https://github.com/Darshan-star/Darshan-star/blob/main/we.png?raw=true)](https://darshan-star.github.io/portfolio/)
 [![LinkedIn](https://github.com/Darshan-star/Darshan-star/blob/main/li.png?raw=true)](https://www.linkedin.com/in/darshan-yadav-9496b0201/)
