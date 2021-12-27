@@ -16,9 +16,7 @@ I am Darshan 🙋🏻‍♂️, a Nature Lover, Cat Lover, Front End Larner, Web
 [![Instagram](https://github.com/Darshan-star/Darshan-star/blob/main/in.png?raw=true)](https://www.instagram.com/darshanrao526/)
 [![WhatsApp](https://github.com/Darshan-star/Darshan-star/blob/main/wh.png?raw=true)](https://wa.me/) 
 
-<p align="center">
-    ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
-</p>
+![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 
 ## 📈 Stats
 <p align="center">
